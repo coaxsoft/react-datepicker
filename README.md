@@ -1,9 +1,9 @@
-#@COAX/React-Datepicker
+# @COAX/React-Datepicker
 
-###Installation
+### Installation
 ```
 none
 ```
 
-###License
+### License
 [ISC](https://www.isc.org/downloads/software-support-policy/isc-license/)
