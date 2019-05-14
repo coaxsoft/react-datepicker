@@ -18,8 +18,8 @@
   "author": "COAX Sofware",
   "license": "ISC",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/coaxsoft/react-datepicker.git"
+    "type": "git",
+    "url": "https://github.com/coaxsoft/react-datepicker.git"
   },
   "peerDependencies": {
     "react": "^16.8.6",
