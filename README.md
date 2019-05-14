@@ -1,4 +1,4 @@
-#React-Datepicker-on-Steroids
+#@COAX/React-Datepicker
 
 ###Installation
 ```
